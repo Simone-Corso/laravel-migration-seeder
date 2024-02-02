@@ -1,8 +1,9 @@
 @extends('layout.app')
 
+
 @section('main-content')
     <div class="container">
-        <div class="row d-flex justify-content-center">
+        <div class="row d-flex justify-content-center mt-5">
             @foreach ($trains as $train)
                 <div class="col-md-4 mb-4">
                     <div class="card">
