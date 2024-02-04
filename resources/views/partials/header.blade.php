@@ -1,8 +1,6 @@
-<nav class="navbar bg-body-blue">
-  <div class="container">
-    <h1 class="title text-center">
-    treni
-</h1>
-    </a>
+<nav class="navbar bg-body-blue d-flex justify-content-center mt-5">
+ <h1 class="text-center">
+  Treni
+ </h1>
   </div>
 </nav>
